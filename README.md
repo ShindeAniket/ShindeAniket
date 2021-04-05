@@ -1,8 +1,6 @@
 - 👋 Hi, I’m ShindeAniket
 - 👀 I’m interested in FrontEnd Technologies
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React
 
 <!---
 ShindeAniket/ShindeAniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
