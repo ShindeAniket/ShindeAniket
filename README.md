@@ -1,5 +1,4 @@
-- 👋 Hi, I’m ShindeAniket
-- 👀 I’m interested in FrontEnd Technologies
+
 
 
 <!---
